@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Шахматы</string>
+    <string name="player_name_0">Белые</string>
+    <string name="player_name_1">Черные</string>
+    <string name="game_stalemate">Пат</string>
+    <string name="game_checkmate">Мат. %s побеждают.</string>
+    <string name="new_single_person">Игра с компьютером</string>
+    <string name="new_two_person">Игра на двоих</string>
+    <string name="promote_pawn">Повысить пешку до:</string>
+    <string name="bishop">Слона</string>
+    <string name="knight">Коня</string>
+    <string name="queen">Королевы</string>
+    <string name="rook">Ладьи</string>
+</resources>

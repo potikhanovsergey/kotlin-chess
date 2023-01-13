@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="promotion_options">
+        <item>@string/bishop</item>
+        <item>@string/knight</item>
+        <item>@string/queen</item>
+        <item>@string/rook</item>
+    </array>
+</resources>
